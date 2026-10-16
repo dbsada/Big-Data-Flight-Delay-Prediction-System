@@ -1,4 +1,4 @@
-# Trabajo Big Data - IBDN
+# Big Data Flight Delay Prediction System
 Este proyecto es el resultado del trabajo realizado para la asignatura IBDN (Ingeniería de Big Data en la Nube). El objetivo principal era desarrollar una aplicación de predicción de retrasos de vuelos utilizando diversas tecnologías y herramientas del ecosistema Big Data. Se puede encontrar el código original en: [https://github.com/Big-Data-ETSIT/practica_creativa](https://github.com/Big-Data-ETSIT/practica_creativa).
 
 
